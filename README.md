@@ -17,3 +17,39 @@ All course materials (Slides, Jupyter Notebooks, Theory and Practical Assignment
 
 ## Copyright Notice
 All materials are provided under Creative-Commons BY license. This course is crowd-sourced by a group of volunteer university students. If you noticed any copyright violation in texts, figures, etc., please report it by sending an email
+
+
+# Contents : 
+<ul>
+  <li><h3>Dimensionality Reduction</h3></li>
+  <ul>
+    <li><h4>Feature Selection</h4></li>
+    <ul>
+      <li>Forward Selection</li>
+      <li>Backward Elimination</li>
+    </ul> 
+  </ul>
+    
+  <ul>
+    <li><h4>Linear Model</h4></li>
+     <ul>
+      <li>PCA (Principal Component Analysis)</li>
+      <li>FA (Factor Analysis)</li>
+      <li>LDA (Linear Discriminant Analysis)</li>
+      <li>SVD (Singular value decomposition)</li>
+    </ul> 
+   </ul>
+  
+  <ul>
+    <li><h4>Manifold Learning</h4></li>
+     <ul>
+      <li>Kernel PCA</li>
+      <li>T-SNE</li>
+    </ul> 
+  </ul>
+    
+</ul>
+
+
+
+

@@ -1,6 +1,6 @@
 # Data-Science-Algorithms-FUM
 
-A course for M.Sc. students, Data Science, Ferdowsi University of Mashhad.
+A course for M.Sc. students, Data Science, <b>Ferdowsi University of Mashhad.</b>
 
 
 All course materials (Slides, Jupyter Notebooks, Theory and Practical Assignments, Projects, etc.) are freely available under Creative Commons BY license.

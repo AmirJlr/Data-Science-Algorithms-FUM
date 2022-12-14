@@ -58,16 +58,15 @@ All materials are provided under Creative-Commons BY license. This course is cro
       <li>DBSCAN</li>
       <li>EM (Expectation Maximization)</li>
     </ul> 
-    
-    
-    <li><h3>Classification</h3></li>
+  
+  
+  <li><h3>Classification</h3></li>
     <ul>
       <li>Linear Sepration</li>
+      <li>DBSCAN</li>
       <li>SVM(Support Vector Machine)</li>
     </ul> 
-  
-  
-    
+      
 </ul>
 
 

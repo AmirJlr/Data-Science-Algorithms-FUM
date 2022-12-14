@@ -22,6 +22,7 @@ All materials are provided under Creative-Commons BY license. This course is cro
 # Contents : 
 <ul>
   <li><h3>Dimensionality Reduction</h3></li>
+  
   <ul>
     <li><h4>Feature Selection</h4></li>
     <ul>
@@ -47,6 +48,25 @@ All materials are provided under Creative-Commons BY license. This course is cro
       <li>T-SNE</li>
     </ul> 
   </ul>
+  
+  <li><h3>Page Rank</h3></li>
+  <li><h3>Apriori algorithm</h3></li>
+  
+  <li><h3>Clustring</h3></li>
+    <ul>
+      <li>K-Means</li>
+      <li>DBSCAN</li>
+      <li>EM (Expectation Maximization)</li>
+    </ul> 
+    
+    
+    <li><h3>Classification</h3></li>
+    <ul>
+      <li>Linear Sepration</li>
+      <li>SVM(Support Vector Machine)</li>
+    </ul> 
+  
+  
     
 </ul>
 

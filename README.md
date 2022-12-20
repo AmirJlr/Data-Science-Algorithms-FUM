@@ -65,6 +65,9 @@ All materials are provided under Creative-Commons BY license. This course is cro
       <li>Linear Sepration</li>
       <li>SVM(Support Vector Machine)</li>
     </ul> 
+    
+    
+  <li><h3>Ensemble Learning</h3></li>
       
 </ul>
 

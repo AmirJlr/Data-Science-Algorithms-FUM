@@ -1,4 +1,4 @@
-,venue_code,opp_code,hour,day_code,gf_rolling,ga_rolling,sh_rolling,sot_rolling,dist_rolling,pk_rolling,pkatt_rolling,target
+,venue_code,opp_code,hour,day_code,gf_rolling,ga_rolling,sh_rolling,sot_rolling,dist_rolling,pk_rolling,pkatt_rolling,Win
 0,1,16,15,5,0.0,3.0,9.666666666666666,2.333333333333333,14.833333333333334,0.0,0.0,1
 1,0,5,15,5,0.3333333333333333,2.333333333333333,12.333333333333334,3.0,14.133333333333333,0.0,0.0,1
 2,1,19,16,6,0.6666666666666666,1.6666666666666667,14.666666666666666,3.0,14.8,0.0,0.0,1

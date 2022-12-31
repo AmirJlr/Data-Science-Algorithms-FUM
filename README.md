@@ -68,7 +68,8 @@ All materials are provided under Creative-Commons BY license. This course is cro
     
     
   <li><h3>Ensemble Learning</h3></li>
-      
+
+  <li><h3>Shupley Value</h3></li>  
 </ul>
 
 

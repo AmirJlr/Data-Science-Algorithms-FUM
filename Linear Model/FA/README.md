@@ -1,12 +1,19 @@
 <h1>Factor Analysis (FA)</h1>
 
-Factor Analysis (FA) is an exploratory data analysis method used to search influential underlying factors or latent variables from a set of observed variables. It helps in data interpretations by reducing the number of variables. It extracts maximum common variance from all variables and puts them into a common score.
+Factor Analysis is a part of Exploratory Data Analysis process which is commonly used for dimensionality reduction method.
+It is used to reduce a large number of variables into smaller number of variables.
+It also has other uses like linear projection and matrix factorization.
 
-Factor analysis is widely utilized in market research, advertising, psychology, finance, and operation research. Market researchers use factor analysis to identify price-sensitive customers, identify brand features that influence consumer choice, and helps in understanding channel selection criteria for the distribution channel.
+
+Factor analysis is widely utilized in market research, advertising, psychology, finance, and operation research.
+Market researchers use factor analysis to identify price-sensitive customers,
+identify brand features that influence consumer choice, 
+and helps in understanding channel selection criteria for the distribution channel.
 
 
 
-Factor analysis is a method for investigating whether a number of variables of interest X1, X2,……., Xl, are linearly related to a smaller number of unobservable factors F1, F2,..……, Fk.
+Factor analysis is a method for investigating whether a number of variables of interest X1, X2,……., Xl, 
+are linearly related to a smaller number of unobservable factors F1, F2,..……, Fk.
 
 
 
@@ -17,16 +24,20 @@ Assumptions:
 - There should not be homoscedasticity between the variables.
 
 
+
 Types of Factor Analysis
-- Exploratory Factor Analysis: It is the most popular factor analysis approach among social and management researchers. Its basic assumption is that any observed variable is directly associated with any factor.
-- Confirmatory Factor Analysis (CFA): Its basic assumption is that each factor is associated with a particular set of observed variables. CFA confirms what is expected on the basic.
+Exploratory factor analysis: Useful when you don’t know what structure your data is in or dimensions
+Confirmatory Factor Analysis: Useful when you know how many dimensions are in set of variables
 
 
 How does Factor Analysis Work?
-The primary objective of factor analysis is to reduce the number of observed variables and find unobservable variables. These unobserved variables help the market researcher to conclude the survey. This conversion of the observed variables to unobserved variables can be achieved in two steps:
+The primary objective of factor analysis is to reduce the number of observed variables and find unobservable variables.
+These unobserved variables help the market researcher to conclude the survey. 
+This conversion of the observed variables to unobserved variables can be achieved in two steps:
 
 Factor Extraction: In this step, the number of factors and approach for extraction selected using variance partitioning methods such as principal components analysis and common factor analysis.
 Factor Rotation: In this step, rotation tries to convert factors into uncorrelated factors — the main goal of this step to improve the overall interpretability. There are lots of rotation methods that are available such as: Varimax rotation method, Quartimax rotation method, and Promax rotation method.
+
 
 
 Factor Analysis Vs. Principle Component Analysis
@@ -36,3 +47,10 @@ Factor Analysis Vs. Principle Component Analysis
 - PCA components are uninterpretable. In FA, underlying factors are labelable and interpretable.
 - PCA is a kind of dimensionality reduction method whereas factor analysis is the latent variable method.
 - PCA is a type of factor analysis. PCA is observational whereas FA is a modeling technique.
+
+
+Conclusion: Why use Factor Analysis?
+Factor Analysis allows us to look at a large dataset and allows us to reduce the observed variables into fewer unobserved variables.
+This helps to understand the relationships among the variables and to be able to determine how market is doing.
+ Factors make us to be able to interpret data better. However, results are somewhat hard to determine because of the interpretations. 
+ The interpretations that come from factor analysis can be controversial and made up because there can be multiple interpretations in one factor.

@@ -25,9 +25,9 @@ Assumptions:
 
 
 
-Types of Factor Analysis
-Exploratory factor analysis: Useful when you don’t know what structure your data is in or dimensions
-Confirmatory Factor Analysis: Useful when you know how many dimensions are in set of variables
+Types of Factor Analysis :
+- Exploratory factor analysis: Useful when you don’t know what structure your data is in or dimensions
+- Confirmatory Factor Analysis: Useful when you know how many dimensions are in set of variables
 
 
 How does Factor Analysis Work?

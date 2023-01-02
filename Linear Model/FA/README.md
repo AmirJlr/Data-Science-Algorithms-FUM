@@ -30,9 +30,9 @@ Factor Rotation: In this step, rotation tries to convert factors into uncorrelat
 
 
 <h3>Factor Analysis Vs. Principle Component Analysis</h3>
-PCA components explain the maximum amount of variance while factor analysis explains the covariance in data.
-PCA components are fully orthogonal to each other whereas factor analysis does not require factors to be orthogonal.
-PCA component is a linear combination of the observed variable while in FA, the observed variables are linear combinations of the unobserved variable or factor.
-PCA components are uninterpretable. In FA, underlying factors are labelable and interpretable.
-PCA is a kind of dimensionality reduction method whereas factor analysis is the latent variable method.
-PCA is a type of factor analysis. PCA is observational whereas FA is a modeling technique.
+- PCA components explain the maximum amount of variance while factor analysis explains the covariance in data.
+- PCA components are fully orthogonal to each other whereas factor analysis does not require factors to be orthogonal.
+- PCA component is a linear combination of the observed variable while in FA, the observed variables are linear combinations of the unobserved variable or factor.
+- PCA components are uninterpretable. In FA, underlying factors are labelable and interpretable.
+- PCA is a kind of dimensionality reduction method whereas factor analysis is the latent variable method.
+- PCA is a type of factor analysis. PCA is observational whereas FA is a modeling technique.

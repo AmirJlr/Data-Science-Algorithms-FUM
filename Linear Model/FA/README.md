@@ -54,3 +54,21 @@ Factor Analysis allows us to look at a large dataset and allows us to reduce the
 This helps to understand the relationships among the variables and to be able to determine how market is doing.
  Factors make us to be able to interpret data better. However, results are somewhat hard to determine because of the interpretations. 
  The interpretations that come from factor analysis can be controversial and made up because there can be multiple interpretations in one factor.
+
+
+ Pros and Cons of Factor Analysis
+ - Factor analysis explores large dataset and finds interlinked associations.
+ It reduces the observed variables into a few unobserved variables or identifies the groups of inter-related variables, 
+ which help the market researchers to compress the market situations and find the hidden relationship among consumer taste, 
+ preference, and cultural influence. 
+ Also, It helps in improve questionnaire in for future surveys. Factors make for more natural data interpretation.
+ 
+- Results of factor analysis are controversial. Its interpretations can be debatable because more than one interpretation can be made of the same data factors.
+  After factor identification and naming of factors requires domain knowledge.
+
+Adequacy Test
+Before you perform factor analysis, you need to evaluate the “factorability” of our dataset. Factorability means "can we found the factors in the dataset?". There are two methods to check the factorability or sampling adequacy:
+
+- Bartlett’s Test
+- Kaiser-Meyer-Olkin Test
+

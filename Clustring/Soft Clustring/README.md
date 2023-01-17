@@ -36,10 +36,31 @@ Object Tracking
 <img src ='imgs/Difference_between_KNN_and_GMM_300w.webp' />
 
 
+If we have data where we assume that the clusters are not defined by simple circles but by more complex,
+ellipsoid shapes, we prefer the GMM approach over the KNN approach. Additionally,
+if we want to have soft cut-off borders and therewith probabilities, that is,
+if we want to know the probability of a datapoint to belong to each of our clusters, 
+we prefer the GMM over the KNN approach. Hence, 
+if there arise the two buzz words <b>probabilities</b> and <b>non-circular</b> during our model selection discussion,
+we should strongly check the use of the <b>GMM</b>.
+
 <table>
     <tr>
     <td><img src="imgs/GMM_1.webp" alt="GMM"/></td>
     <td><img src="imgs/GMM_2.webp" alt="GMM"/></td>
     <td><img src="imgs/GMM_3.webp" alt="GMM"/></td>
+    </tr>
+</table>
+
+
+
+we have seen that we can create an arbitrary dataset,
+ fit a GMM to this data which is first finding gaussian distributed clusters (sources) in this dataset
+  and second allows us to predict the membership probability of an unseen datapoint to these sources :
+<table>
+    <tr>
+    <td><img src="imgs/em-gmm_1.webp" alt="GMM"/></td>
+    <td><img src="imgs/em-gmm_2.webp" alt="GMM"/></td>
+    
     </tr>
 </table>

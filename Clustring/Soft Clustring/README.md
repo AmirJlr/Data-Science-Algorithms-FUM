@@ -32,3 +32,10 @@ Anytime you have unlabeled data and want to classify it. If data is normally dis
 Predicting Customer Churn
 Anomaly Detection
 Object Tracking
+
+<img src ='imgs/Difference_between_KNN_and_GMM_300w.webp' />
+
+
+<img src="imgs/GMM_1.webp" alt="GMM" width="30%">
+<img src="imgs/GMM_2.webp" alt="GMM" width="30%">
+<img src="imgs/GMM_3.webp" alt="GMM" width="30%">

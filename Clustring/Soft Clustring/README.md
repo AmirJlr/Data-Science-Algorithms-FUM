@@ -38,13 +38,13 @@ Object Tracking
 
 <div class="row">
     <div class="column">
-      <img src="imgs/GMM_1.webp" alt="GMM" style="width:100%">
+      <img src="imgs/GMM_1.webp" alt="GMM">
     </div>
     <div class="column">
-      <img src="imgs/GMM_2.webp" alt="GMM" style="width:100%">
+      <img src="imgs/GMM_2.webp" alt="GMM">
     </div>
     <div class="column">
-      <img src="imgs/GMM_3.webp" alt="GMM" style="width:100%">
+      <img src="imgs/GMM_3.webp" alt="GMM">
     </div>
   </div>
 

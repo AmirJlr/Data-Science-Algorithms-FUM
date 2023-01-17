@@ -36,15 +36,10 @@ Object Tracking
 <img src ='imgs/Difference_between_KNN_and_GMM_300w.webp' />
 
 
-<div class="row">
-    <div class="column">
-      <img src="imgs/GMM_1.webp" alt="GMM">
-    </div>
-    <div class="column">
-      <img src="imgs/GMM_2.webp" alt="GMM">
-    </div>
-    <div class="column">
-      <img src="imgs/GMM_3.webp" alt="GMM">
-    </div>
-  </div>
-
+<table>
+    <tr>
+    <td><img src="imgs/GMM_1.webp" alt="GMM"/></td>
+    <td><img src="imgs/GMM_2.webp" alt="GMM"/></td>
+    <td><img src="imgs/GMM_3.webp" alt="GMM"/></td>
+    </tr>
+</table>

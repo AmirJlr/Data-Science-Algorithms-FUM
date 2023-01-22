@@ -12,7 +12,7 @@ t-SNE a non-linear dimensionality reduction algorithm finds patterns in the data
 ## Use cases
 t-SNE can be used on almost all high dimensional data sets. But it is extensively applied in Image processing, NLP, genomic data and speech processing.
 
-## PCA vs t-sne :
+## PCA vs t-SNE :
 <table>
     <tr>
         <td><img src="imgs/pc vs tsne1.png" alt="tsne"/></td>

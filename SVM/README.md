@@ -77,7 +77,6 @@ In most real-world applications we do not find linearly separable datapoints hen
 <p>
     To classify these points, we can have many decision boundaries,
     but the question is which is the best and how do we find it?
-
     The best hyperplane is that plane that has the maximum distance from both the classes,
     and this is the main aim of SVM.
     This is done by finding different hyperplanes which classify the labels in the best way
@@ -89,7 +88,6 @@ In most real-world applications we do not find linearly separable datapoints hen
 <p> 
 In real-life applications we don’t find any dataset which is linearly separable,
 what we’ll find is either an almost linearly separable dataset or a non-linearly separable dataset.
-
 To tackle this problem what we do is modify to such a way that it <b>allows few misclassifications</b> that means it <b>allows few points to be wrongly classified</b>.
 </p>
 
@@ -101,7 +99,6 @@ To tackle this problem what we do is modify to such a way that it <b>allows few 
 <p>
 Interesting feature of SVM is that it can even work with a non-linear dataset and for this,
 we use “Kernel Trick” which makes it easier to classifies the points. 
-
 Suppose we have a dataset that we cannot draw a single line or say hyperplane which can classify the points correctly.
 So what we do is try <b>converting this lower dimension space to a higher dimension</b> space using some quadratic functions which will allow us to find a decision boundary that clearly divides the data points.
 These functions which help us do this are called <b>Kernels</b> and which kernel to use is purely determined by hyperparameter tuning.

@@ -31,8 +31,11 @@ are linearly related to a smaller number of unobservable factors F1, F2,..……
 
 
 <h2>Types of Factor Analysis :</h2>
-- Exploratory factor analysis: Useful when you don’t know what structure your data is in or dimensions
-- Confirmatory Factor Analysis: Useful when you know how many dimensions are in set of variables
+
+<ul>
+  <li>Exploratory factor analysis: Useful when you don’t know what structure your data is in or dimensions</li>
+  <li>Confirmatory Factor Analysis: Useful when you know how many dimensions are in set of variables</li>
+</ul>
 
 
 <h2>How does Factor Analysis Work?</h2>
@@ -40,8 +43,11 @@ The primary objective of factor analysis is to reduce the number of observed var
 These unobserved variables help the market researcher to conclude the survey. 
 This conversion of the observed variables to unobserved variables can be achieved in two steps:
 
-- Factor Extraction: In this step, the number of factors and approach for extraction selected using variance partitioning methods such as principal components analysis and common factor analysis.
-- Factor Rotation: In this step, rotation tries to convert factors into uncorrelated factors — the main goal of this step to improve the overall interpretability. There are lots of rotation methods that are available such as: Varimax rotation method, Quartimax rotation method, and Promax rotation method.
+<ul>
+  <li>Factor Extraction: In this step, the number of factors and approach for extraction selected using variance partitioning methods such as principal components analysis and common factor analysis.</li>
+  <li>Factor Rotation: In this step, rotation tries to convert factors into uncorrelated factors — the main goal of this step to improve the overall interpretability. There are lots of rotation methods that are available such as: Varimax rotation method, Quartimax rotation method, and Promax rotation method.
+  </li>
+</ul>
 
 
 <h2>DETERMINING THE NUMBER OF FACTORS</h2>
@@ -58,12 +64,18 @@ Eigenvalues are nothing but the amount of variance the factor explains.
 
 
 <h2>Factor Analysis Vs. Principle Component Analysis</h2>
-- PCA components explain the maximum amount of variance while factor analysis explains the covariance in data.
-- PCA components are fully orthogonal to each other whereas factor analysis does not require factors to be orthogonal.
-- PCA component is a linear combination of the observed variable while in FA, the observed variables are linear combinations of the unobserved variable or factor.
-- PCA components are uninterpretable. In FA, underlying factors are labelable and interpretable.
-- PCA is a kind of dimensionality reduction method whereas factor analysis is the latent variable method.
-- PCA is a type of factor analysis. PCA is observational whereas FA is a modeling technique.
+<ul>
+  <li>PCA components explain the maximum amount of variance while factor analysis explains the covariance in data.</li>
+  <li>PCA components are fully orthogonal to each other whereas factor analysis does not require factors to be orthogonal.</li>
+  <li>PCA component is a linear combination of the observed variable while in FA, the observed variables are linear combinations of the unobserved variable or factor.</li>
+  <li>PCA components are uninterpretable. In FA, underlying factors are labelable and interpretable.</li>
+  <li>PCA is a kind of dimensionality reduction method whereas factor analysis is the latent variable method.  </li>
+  <li>PCA is a type of factor analysis. PCA is observational whereas FA is a modeling technique.</li>
+</ul>
+
+
+
+
 
 
 <h2>Conclusion: Why use Factor Analysis?</h2>
@@ -74,17 +86,19 @@ This helps to understand the relationships among the variables and to be able to
 
 
 <h2>Pros and Cons of Factor Analysis</h2>
- - Factor analysis explores large dataset and finds interlinked associations.
+ <b>Factor analysis explores large dataset and finds interlinked associations.</b>
  It reduces the observed variables into a few unobserved variables or identifies the groups of inter-related variables, 
  which help the market researchers to compress the market situations and find the hidden relationship among consumer taste, 
  preference, and cultural influence. 
  Also, It helps in improve questionnaire in for future surveys. Factors make for more natural data interpretation.
  
-- Results of factor analysis are controversial. Its interpretations can be debatable because more than one interpretation can be made of the same data factors.
+ <b>Results of factor analysis are controversial.</b>
+ Its interpretations can be debatable because more than one interpretation can be made of the same data factors.
   After factor identification and naming of factors requires domain knowledge.
 
 <h3>Adequacy Test</h3>
-Before you perform factor analysis, you need to evaluate the “factorability” of our dataset. Factorability means "can we found the factors in the dataset?". There are two methods to check the factorability or sampling adequacy:
+Before you perform factor analysis, you need to evaluate the “factorability” of our dataset.
+ Factorability means "can we found the factors in the dataset?". There are two methods to check the factorability or sampling adequacy:
 
 - Bartlett’s Test
 - Kaiser-Meyer-Olkin Test

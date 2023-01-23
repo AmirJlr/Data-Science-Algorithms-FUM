@@ -17,7 +17,6 @@
     Now the question is which hyperplane does it select?
     There can be an infinite number of hyperplanes passing through a point and classifying the two classes perfectly.
     So, which one is the best?
-
     Well, SVM does this by finding the <b>maximum margin between the hyperplanes</b> that means maximum distances between the two classes.
 </p>
 

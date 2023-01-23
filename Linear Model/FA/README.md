@@ -1,4 +1,6 @@
-<h1>Factor Analysis (FA)</h1>
+## Factor Analysis (FA)
+
+<img src="imgs/fa1" alt="FA">
 
 Factor Analysis is a part of Exploratory Data Analysis process which is commonly used for dimensionality reduction method.
 It is used to reduce a large number of variables into smaller number of variables.
@@ -17,7 +19,7 @@ are linearly related to a smaller number of unobservable factors F1, F2,..……
 
 
 
-Assumptions:
+### Assumptions:
 - There are no outliers in data.
 - Sample size should be greater than the factor.
 - There should not be perfect multicollinearity.
@@ -25,12 +27,12 @@ Assumptions:
 
 
 
-Types of Factor Analysis :
+## Types of Factor Analysis :
 - Exploratory factor analysis: Useful when you don’t know what structure your data is in or dimensions
 - Confirmatory Factor Analysis: Useful when you know how many dimensions are in set of variables
 
 
-How does Factor Analysis Work?
+## How does Factor Analysis Work?
 The primary objective of factor analysis is to reduce the number of observed variables and find unobservable variables.
 These unobserved variables help the market researcher to conclude the survey. 
 This conversion of the observed variables to unobserved variables can be achieved in two steps:
@@ -39,7 +41,7 @@ This conversion of the observed variables to unobserved variables can be achieve
 - Factor Rotation: In this step, rotation tries to convert factors into uncorrelated factors — the main goal of this step to improve the overall interpretability. There are lots of rotation methods that are available such as: Varimax rotation method, Quartimax rotation method, and Promax rotation method.
 
 
-DETERMINING THE NUMBER OF FACTORS
+## DETERMINING THE NUMBER OF FACTORS
 The number of factors in our dataset is equal to the number of variables in our dataset.
  All the factors are not gonna provide a significant amount of useful information about the common variance among the variables.
   So we have to decide the number of factors.
@@ -49,26 +51,10 @@ The number of factors in our dataset is equal to the number of variables in our 
 Eigenvalues are nothing but the amount of variance the factor explains.
  We will select the number of factors whose eigenvalues are greater than 1.
 
-
- 
-
- 
- ###DETERMINING THE NUMBER OF FACTORS
- The number of factors in our dataset is equal to the number of variables in our dataset. All the factors are not gonna provide a significant amount of useful information about the common variance among the variables. So we have to decide the number of factors. The number of factors can be decided on the basis of the amount of common variance the factors explain. In general, we will plot the factors and their eigenvalues.
- 
- Eigenvalues are nothing but the amount of variance the factor explains. We will select the number of factors whose eigenvalues are greater than 1.
- 
- ####But why should we choose the factors whose eigenvalues are greater than 1?
- 
- The answer is very simple. In a standard normal distribution with mean 0 and Standard deviation 1, 
- the variance will be 1. Since we have standard scaled the data the variance of a feature is 1. 
- This is the reason for selecting factors whose eigenvalues(variance) are greater than 1 i.e. 
- the factors which explain more variance than a single observed variable.
-
  
 
 
-Factor Analysis Vs. Principle Component Analysis
+## Factor Analysis Vs. Principle Component Analysis
 - PCA components explain the maximum amount of variance while factor analysis explains the covariance in data.
 - PCA components are fully orthogonal to each other whereas factor analysis does not require factors to be orthogonal.
 - PCA component is a linear combination of the observed variable while in FA, the observed variables are linear combinations of the unobserved variable or factor.
@@ -77,14 +63,14 @@ Factor Analysis Vs. Principle Component Analysis
 - PCA is a type of factor analysis. PCA is observational whereas FA is a modeling technique.
 
 
-Conclusion: Why use Factor Analysis?
+## Conclusion: Why use Factor Analysis?
 Factor Analysis allows us to look at a large dataset and allows us to reduce the observed variables into fewer unobserved variables.
 This helps to understand the relationships among the variables and to be able to determine how market is doing.
  Factors make us to be able to interpret data better. However, results are somewhat hard to determine because of the interpretations. 
  The interpretations that come from factor analysis can be controversial and made up because there can be multiple interpretations in one factor.
 
 
- Pros and Cons of Factor Analysis
+ ## Pros and Cons of Factor Analysis
  - Factor analysis explores large dataset and finds interlinked associations.
  It reduces the observed variables into a few unobserved variables or identifies the groups of inter-related variables, 
  which help the market researchers to compress the market situations and find the hidden relationship among consumer taste, 
@@ -94,7 +80,7 @@ This helps to understand the relationships among the variables and to be able to
 - Results of factor analysis are controversial. Its interpretations can be debatable because more than one interpretation can be made of the same data factors.
   After factor identification and naming of factors requires domain knowledge.
 
-Adequacy Test
+### Adequacy Test
 Before you perform factor analysis, you need to evaluate the “factorability” of our dataset. Factorability means "can we found the factors in the dataset?". There are two methods to check the factorability or sampling adequacy:
 
 - Bartlett’s Test

@@ -1,6 +1,6 @@
 # Data-Science-Algorithms-FUM
 
-A course for M.Sc. students, Data Science, <b>Ferdowsi University of Mashhad.</b>
+A course for M.Sc. students, Data Science, <b>Ferdowsi University of Mashhad</b> with Dr. Rasoul Ramezanian.
 
 
 All course materials (Slides, Jupyter Notebooks, Theory and Practical Assignments, Projects, etc.) are freely available under Creative Commons BY license.
@@ -56,7 +56,7 @@ All materials are provided under Creative-Commons BY license. This course is cro
     <ul>
       <li>K-Means</li>
       <li>DBSCAN</li>
-      <li>EM (Expectation Maximization)</li>
+      <li>GMM (Gaussian Mixture Model)</li>
     </ul> 
   
   

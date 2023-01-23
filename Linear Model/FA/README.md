@@ -1,6 +1,6 @@
 <h1>Factor Analysis (FA)</h1>
 
-<img src="imgs/fa1" alt="FA">
+<img src="imgs/fa1.png" alt="FA">
 
 Factor Analysis is a part of Exploratory Data Analysis process which is commonly used for dimensionality reduction method.
 It is used to reduce a large number of variables into smaller number of variables.

@@ -20,10 +20,13 @@ are linearly related to a smaller number of unobservable factors F1, F2,..……
 
 
 <h3>Assumptions:</h3>
-- There are no outliers in data.
-- Sample size should be greater than the factor.
-- There should not be perfect multicollinearity.
-- There should not be homoscedasticity between the variables.
+
+<ul>
+  <li>There are no outliers in data.</li>
+  <li>Sample size should be greater than the factor.</li>
+  <li>There should not be perfect multicollinearity.</li>
+  <li>There should not be homoscedasticity between the variables.</li>
+</ul>
 
 
 

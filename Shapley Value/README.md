@@ -28,22 +28,21 @@
 </p>
 
 <p>
-    Before we start, I would like to introduce serval key concepts we will use in the later calculation. 
-    Notice that I define characteristic function simply as the sum of conversions that the coalition generated.
+    <b>Before starting, we introduce serval key concepts we will use in the later calculation :</b>
 </p>
 
 <ul>
-    <li>N = Channels{House ads, Facebook, Email, Google, etc.} It is a set of players</li>
-    <li>N = Channels{House ads, Facebook, Email, Google, etc.} It is a set of players</li>
-    <li>|𝑆| is the cardinality of coalition 𝑆 and the sum extends over all subsets 𝑆 of n not containing channel i.</li>
-    <li>n = Number of N</li>
+    <li><b>N = Channels{House ads, Facebook, Email, Google, etc.} It is a set of players</b></li>
+    <li><b>N = Channels{House ads, Facebook, Email, Google, etc.} It is a set of players</b></li>
+    <li><b>|𝑆| is the cardinality of coalition 𝑆 and the sum extends over all subsets 𝑆 of n not containing channel i.</b></li>
+    <li><b>n = Number of N</b></li>
     <li>
-        v(S) = A real-valued function v, called the characteristic function.
+        <b>v(S) = A real-valued function v, called the characteristic function.
          The contribution of S which denotes a coalition of N (channels). 
          It is the weight of each channel after calculation.
-    </li>
-    <li>Weight = |S|!(n-|S|-1)!/n!</li>
-    <li>Marginal contribution = v(S U {i})-v(S) Incremental weighted sum minus the coalition without v(S)</li>
+    </b></li>
+    <li><b>Weight = |S|!(n-|S|-1)!/n!</b></li>
+    <li><b>Marginal contribution = v(S U {i})-v(S) Incremental weighted sum minus the coalition without v(S)</b></li>
 </ul>
 
 <img src="imgs/sh1.webp" alt="shapley value">

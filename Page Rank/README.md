@@ -39,7 +39,7 @@
     each link would transfer 0.25 PageRank to A upon the next iteration, for a total of 0.75.
 </p>
 
-<img src="imgs/prf1.png" alt="page rank">
+<img src="imgs/1.svg" alt="page rank">
 
 <p>Suppose instead that page B had a link to pages C and A, page C had a link to page A, 
     and page D had links to all three pages. 
@@ -51,20 +51,20 @@
      At the completion of this iteration, page A will have a PageRank of approximately 0.458.
 </p>
 
-<img src="imgs/prf2.png" alt="page rank">
+<img src="imgs/2.svg" alt="page rank">
 
 <p>
     In other words, the PageRank conferred by an outbound link is equal to
         the document’s own PageRank score divided by the number of outbound links L( ).
 </p>
     
-<img src="imgs/prf3.png" alt="page rank">
+<img src="imgs/3.svg" alt="page rank">
 
 <p>
     In the general case, the PageRank value for any page u can be expressed as:
 </p>
 
-<img src="imgs/prf4.png" alt="page rank">
+<img src="imgs/4.svg" alt="page rank">
 
 <p>
     i.e. the PageRank value for a page u is dependent on the PageRank values for each page v contained in the set Bu 

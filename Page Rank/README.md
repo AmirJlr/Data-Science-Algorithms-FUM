@@ -32,6 +32,8 @@
     Hence the initial value for each page in this example is 0.25.
 </p>
 
+#### IMG1 ####
+
 <p>
     The PageRank transferred from a given page to the targets of its outbound links upon the next iteration is
     divided equally among all outbound links.
@@ -52,6 +54,7 @@
 </p>
 
 <img src="imgs/2.svg" alt="page rank">
+#### IMG2 ####
 
 <p>
     In other words, the PageRank conferred by an outbound link is equal to
@@ -72,4 +75,15 @@
     The algorithm involves a damping factor for the calculation of the PageRank. 
     It is like the income tax which the govt extracts from one despite paying him itself.
 </p>
+
+<p>
+    Finally, we introduce a <b>damping factor</b> d∈(0,1]
+    , which models the fact that surfers may restart their web session even if they are on a page that does have outlinks. 
+    Thus, we damp a webpage’s PageRank by multiplying it by d
+    , and then we assume that the total residual probability 1−d
+    is distributed among all webpages, so that each page receives (1−d)/N
+    as its share :
+</p>
+
+#### IMG3 ####
 

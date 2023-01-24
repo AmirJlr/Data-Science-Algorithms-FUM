@@ -33,7 +33,6 @@
 
 <ul>
     <li><b>N = Channels{House ads, Facebook, Email, Google, etc.} It is a set of players</b></li>
-    <li><b>N = Channels{House ads, Facebook, Email, Google, etc.} It is a set of players</b></li>
     <li><b>|𝑆| is the cardinality of coalition 𝑆 and the sum extends over all subsets 𝑆 of n not containing channel i.</b></li>
     <li><b>n = Number of N</b></li>
     <li>

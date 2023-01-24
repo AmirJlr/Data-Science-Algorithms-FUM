@@ -54,6 +54,8 @@
 </p>
 
 <img src="imgs/2.svg" alt="page rank">
+
+
 #### IMG2 ####
 
 <p>

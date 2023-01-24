@@ -26,6 +26,3 @@
     Shapley values – a method from coalitional game theory – tells us how to fairly distribute the “payout” 
     among the features.
 </p>
-
-
-link : https://www.kaggle.com/code/ritzig/classification-feature-selection-shap-tutorial

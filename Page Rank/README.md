@@ -32,7 +32,7 @@
     Hence the initial value for each page in this example is 0.25.
 </p>
 
-<img src="imgs/PR5.png" alt="page rank">
+<img src="imgs/PR5.jpg" alt="page rank">
 
 <p>
     The PageRank transferred from a given page to the targets of its outbound links upon the next iteration is
@@ -56,7 +56,7 @@
 <img src="imgs/2.svg" alt="page rank">
 
 
-<img src="imgs/PR6.png" alt="page rank">
+<img src="imgs/PR6.jpg" alt="page rank">
 
 <p>
     In other words, the PageRank conferred by an outbound link is equal to
@@ -87,5 +87,5 @@
     as its share :
 </p>
 
-<img src="imgs/PR7.png" alt="page rank">
+<img src="imgs/PR7.jpg" alt="page rank">
 

@@ -26,3 +26,7 @@
     Shapley values – a method from coalitional game theory – tells us how to fairly distribute the “payout” 
     among the features.
 </p>
+
+
+### Read more :
+https://christophm.github.io/interpretable-ml-book/shapley.html

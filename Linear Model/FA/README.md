@@ -65,9 +65,9 @@ Eigenvalues are nothing but the amount of variance the factor explains.
 
 <h2>Factor Analysis Vs. Principle Component Analysis</h2>
 <ul>
+<li>PCA component is a linear combination of the observed variable while in FA, the observed variables are linear combinations of the unobserved variable or factor.</li>
   <li>PCA components explain the maximum amount of variance while factor analysis explains the covariance in data.</li>
   <li>PCA components are fully orthogonal to each other whereas factor analysis does not require factors to be orthogonal.</li>
-  <li>PCA component is a linear combination of the observed variable while in FA, the observed variables are linear combinations of the unobserved variable or factor.</li>
   <li>PCA components are uninterpretable. In FA, underlying factors are labelable and interpretable.</li>
   <li>PCA is a kind of dimensionality reduction method whereas factor analysis is the latent variable method.  </li>
   <li>PCA is a type of factor analysis. PCA is observational whereas FA is a modeling technique.</li>

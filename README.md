@@ -16,7 +16,7 @@ All course materials (Slides, Jupyter Notebooks, Theory and Practical Assignment
 
 
 ## Copyright Notice
-All materials are provided under Creative-Commons BY license. This course is crowd-sourced by a group of volunteer university students. If you noticed any copyright violation in texts, figures, etc., please report it by sending an email
+All materials are provided under Creative-Commons BY license. This course is crowd-sourced by a group of volunteer university students. If you noticed any copyright violation in texts, figures, etc., please report it by sending an email :)
 
 
 # Contents : 
